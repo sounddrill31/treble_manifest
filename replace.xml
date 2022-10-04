@@ -50,14 +50,8 @@
 <remove-project name="platform/system/linkerconfig" />
 <project path="system/linkerconfig" name="platform_system_linkerconfig" remote="td" revision="android-13.0.0_r8-td" />
 
-<remove-project name="platform/frameworks/opt/net/ims" />
-<project path="frameworks/opt/net/ims" name="platform_frameworks_opt_net_ims" remote="td" revision="android-13.0.0_r8-td" />
-
 <remove-project name="platform/hardware/interfaces" />
 <project path="hardware/interfaces" name="platform_hardware_interfaces" remote="td" revision="android-13.0.0_r8-td" />
-
-<remove-project name="platform/system/security" />
-<project path="system/security" name="platform_system_security" remote="td" revision="android-13.0.0_r8-td" />
 
 <remove-project name="platform/build" />
 <project path="build/make" name="platform_build" remote="td" revision="android-13.0.0_r8-td">
