@@ -11,9 +11,6 @@
 <remove-project name="platform/system/vold" />
 <project path="system/vold" name="platform_system_vold" remote="td" revision="android-13.0.0_r8-td" />
 
-<remove-project name="platform/system/bt" />
-<project path="system/bt" name="platform_system_bt" remote="td" revision="android-13.0.0_r8-td" />
-
 <remove-project name="platform/external/selinux" />
 <project path="external/selinux" name="platform_external_selinux" remote="td" revision="android-13.0.0_r8-td" />
 
