@@ -63,4 +63,7 @@
     <linkfile src="tools" dest="build/tools" />
 </project>
 
+<remove-project name="platform/frameworks/libs/net" />
+<project path="frameworks/libs/net" name="platform_frameworks_libs_net" remote="td" revision="android-13.0.0_r8-td" />
+
 </manifest>
