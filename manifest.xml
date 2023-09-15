@@ -5,7 +5,7 @@
 <remote name="github" fetch="https://github.com/" />
 <remote name="sounddrill31" fetch="https://github.com/sounddrill31/" />
 
-<project path="device/phh/treble" name="device_phh_treble" remote="sounddrill31" revision="lineage-20.0" />
+<project path="device/phh/treble" name="device_phh_treble" remote="sounddrill31" revision="DerpFest-13" />
 <project path="vendor/hardware_overlay" name="vendor_hardware_overlay" remote="td" revision="pie" />
 
 <project path="vendor/vndk-tests" name="vendor_vndk-tests" remote="phh" revision="master" />
