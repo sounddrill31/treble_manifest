@@ -11,5 +11,5 @@
 <project path="vendor/lptools" name="vendor_lptools" remote="phh" revision="master" />
 <project path="vendor/magisk" name="vendor_magisk" remote="phh" revision="android-10.0" />
 <project path="packages/apps/QcRilAm" name="AndyCGYan/android_packages_apps_QcRilAm" remote="github" revision="master" />
-<project path="treble/scripts" name="AndyCGYan/treble_experimentations" remote="github" revision="master" />
+<project path="treble/scripts" name="AndyCGYan/lineage_build_unified" remote="github" revision="lineage-20-light" />
 </manifest>
