@@ -13,6 +13,5 @@
 <project path="packages/apps/QcRilAm" name="AndyCGYan/android_packages_apps_QcRilAm" remote="github" revision="master" />
 <project path="lineage_build_unified" name="AndyCGYan/lineage_build_unified" remote="github" revision="lineage-20-light" />
 <project path="lineage_patches_unified" name="AndyCGYan/lineage_patches_unified" remote="github" revision="lineage-20-light" />
-<remove-project name="LineageOS/android_packages_apps_Camera2" />
 <project name="MindTheGapps/vendor_gapps" path="vendor/gapps" remote="gitlab" revision="tau" />
 </manifest>
