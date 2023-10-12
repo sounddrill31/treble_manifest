@@ -3,6 +3,7 @@
 <remote name="phh" fetch="https://github.com/phhusson/" />
 <remote name="td" fetch="https://github.com/TrebleDroid/" />
 <remote name="sounddrill31" fetch="https://github.com/sounddrill31" />
+<remote name="gitlab" fetch="https://gitlab.com/" />
 <project path="device/phh/treble" name="android_device_lineage_gsi" remote="sounddrill31" revision="lineage-20" />
 <project path="vendor/hardware_overlay" name="vendor_hardware_overlay" remote="td" revision="pie" />
 <project path="vendor/vndk-tests" name="vendor_vndk-tests" remote="phh" revision="master" />
