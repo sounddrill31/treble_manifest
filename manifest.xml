@@ -2,8 +2,7 @@
 <manifest>
 <remote name="phh" fetch="https://github.com/phhusson/" />
 <remote name="td" fetch="https://github.com/TrebleDroid/" />
-<remote name="github" fetch="https://github.com/" />
-<remote name="sounddrill31" 
+<remote name="sounddrill31" fetch="https://github.com/sounddrill31" />
 <project path="device/phh/treble" name="android_device_lineage_gsi" remote="sounddrill31" revision="lineage-20" />
 <project path="vendor/hardware_overlay" name="vendor_hardware_overlay" remote="td" revision="pie" />
 <project path="vendor/vndk-tests" name="vendor_vndk-tests" remote="phh" revision="master" />
@@ -12,4 +11,7 @@
 <project path="vendor/magisk" name="vendor_magisk" remote="phh" revision="android-10.0" />
 <project path="packages/apps/QcRilAm" name="AndyCGYan/android_packages_apps_QcRilAm" remote="github" revision="master" />
 <project path="lineage_build_unified" name="AndyCGYan/lineage_build_unified" remote="github" revision="lineage-20-light" />
+<project path="lineage_patches_unified" name="AndyCGYan/lineage_patches_unified" remote="github" revision="lineage-20-light" />
+<remove-project name="LineageOS/android_packages_apps_Camera2" />
+<project name="MindTheGapps/vendor_gapps" path="vendor/gapps" remote="gitlab" revision="tau" />
 </manifest>
